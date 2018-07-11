@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string-array name="androidos">
+
+        <item>ICE CREAM SANDWICH</item>
+        <item>JELLY BEAN</item>
+        <item>LOLLOPOP</item>
+        <item>MASHMALLOW</item>
+        <item>KIKKAT</item>
+        <item>ANDROID OREO</item>
+        <item>ANDROID O</item>
+
+
+    </string-array>
+
+</resources>
